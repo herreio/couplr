@@ -1,0 +1,17 @@
+Package: couplr
+Title: Couple Queries and/or Documents by Distribution of Topics
+Version: 0.0.1
+Authors@R: 
+    person(given = "Donatus",
+           family = "Herre",
+           role = c("aut", "cre"),
+           email = "git@herre.io")
+Description: a good description.
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    topmodelr
+Suggests:
+    maxplanckr
+RoxygenNote: 7.0.2
